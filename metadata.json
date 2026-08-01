@@ -1,0 +1,6 @@
+{
+  "name": "Friendship Day Surprise",
+  "description": "A luxury, interactive dark-themed Friendship Day experience with glowing aurora effects, timeline, memories gallery, stats counters, background audio, and final celebration fireworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
