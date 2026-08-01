@@ -4,7 +4,7 @@ import { TimelineItem, MemoryPhoto, ReasonCard, StatItem } from '../types';
 // MUSIC CONFIGURATION
 // =========================================
 // Replace music URL here
-export const BACKGROUND_MUSIC_URL = "../../assets/music/tenu.mp3"; 
+export const BACKGROUND_MUSIC_URL = "/assets/music/tenu.mp3"; 
 // Replace music URL here: You can replace the link above with any direct .mp3 / .wav audio URL.
 
 
