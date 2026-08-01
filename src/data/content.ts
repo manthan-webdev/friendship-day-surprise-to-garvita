@@ -82,66 +82,66 @@ export const MEMORIES_DATA: MemoryPhoto[] = [
   // Photo 1
   {
     id: 'memory-1',
-    photoLabel: 'Photo1',
-    title: 'Neon Nights & City Lights',
-    subtitle: 'Wandering the glowing streets with zero care in the world.',
-    date: 'Summer 2023',
-    imageUrl: '../../assets/images/photo1.jpeg',
+    photoLabel: 'My Birthday Memory ',
+    title: 'Smiles That Say It All',
+    subtitle: 'No perfect pose, no perfect plan-just two genuine smiles and a memory I`ll always treasure.',
+    date: '28 July 2026',
+    imageUrl: '/assets/images/photo1.jpeg',
     aspectRatio: 'portrait',
   },
 
   // Photo 2
   {
     id: 'memory-2',
-    photoLabel: 'Photo 2',
-    title: 'Spontaneous Road Trips',
-    subtitle: 'Windows down, music blasting, and freedom in our hearts.',
-    date: 'Autumn 2024',
-    imageUrl: '../../assets/images/photo2.jpeg',
+    photoLabel: 'Garba Night',
+    title: 'A Night Full of Smiles',
+    subtitle: 'The music ended, but this memory never did',
+    date: '21 October 2023',
+    imageUrl: '/assets/images/photo2.jpeg',
     aspectRatio: 'square',
   },
 
   // Photo 3
   {
     id: 'memory-3',
-    photoLabel: 'Photo 3',
-    title: 'Sunset Beach Laughs',
-    subtitle: 'Watching the golden hour glow turn into starry skies.',
-    date: 'Spring 2025',
-    imageUrl: '../../assets/images/photo3.jpeg',
+    photoLabel: 'Birthday Moments',
+    title: 'A Candid Smile',
+    subtitle: 'The best pictures are the ones we never planned to take',
+    date: '4 July 2026',
+    imageUrl: '/assets/images/photo3.jpeg',
     aspectRatio: 'wide',
   },
 
   // Photo 4
   {
     id: 'memory-4',
-    photoLabel: 'Photo 4',
-    title: 'Coffee & Deep Conversations',
-    subtitle: 'Four hours felt like four minutes when we talked.',
-    date: 'Winter 2025',
-    imageUrl: '../../assets/images/photo4.jpeg',
+    photoLabel: 'Navratri Nights',
+    title: 'Nine Nights of Happiness',
+    subtitle: 'Among the lights, music, and celebrations, this moment became one of my favorites.',
+    date: '6 October 2024',
+    imageUrl: '/assets/images/photo4.jpeg',
     aspectRatio: 'square',
   },
 
   // Photo 5
   {
     id: 'memory-5',
-    photoLabel: 'Photo 5',
-    title: 'Concert Energy',
-    subtitle: 'Screaming the lyrics to our favorite songs in harmony.',
-    date: 'Early 2026',
-    imageUrl: '../../assets/images/photo5.jpeg',
+    photoLabel: 'Birthday',
+    title: 'Her Special Day',
+    subtitle: 'The day was yours, but the memories became ours forever.',
+    date: '4 July 2026',
+    imageUrl: '/assets/images/photo5.jpeg',
     aspectRatio: 'portrait',
   },
 
   // Photo 6
   {
     id: 'memory-6',
-    photoLabel: 'Photo 6',
-    title: 'Unplanned Golden Moments',
-    subtitle: 'The silly candid photos that ended up being our absolute favorite.',
-    date: 'Friendship Day 2026',
-    imageUrl: '../../assets/images/photo6.jpeg',
+    photoLabel: 'A Precious Smile',
+    title: 'The Smile I Never Forget',
+    subtitle: 'Some smiles don`t fade with time-they stay with you forever.',
+    date: '30 January 2026',
+    imageUrl: '/assets/images/photo6.jpeg',
     aspectRatio: 'wide',
   },
 ];
